@@ -1,0 +1,336 @@
+%<S -120:1382695461456 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="ButtonBar0":String }%>
+%<{ type="itemclick":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%<{ elem=1:int }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ numOfSelectedItems=18:int }%>
+%<{ numInShopCart=0:int }%>
+%<{ cartCurrency="$":String }%>
+%<{ cartTotal="$0.00":String }%>
+%<{ numInCompareCart=0:int }%>
+%<{ selectedProduct=-1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=16:int }%>
+%<{ elem=4:int }%>
+%<{ elem=18:int }%>
+%<{ elem=6:int }%>
+%<{ elem=8:int }%>
+%<{ elem=11:int }%>
+%<{ elem=13:int }%>
+%<{ elem=1:int }%>
+%<{ elem=3:int }%>
+%<{ elem=17:int }%>
+%<{ elem=5:int }%>
+%<{ elem=7:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=12:int }%>
+%<{ elem=14:int }%>
+%<{ elem=2:int }%>
+%<{ elem=15:int }%>
+%>
+%>
+%<P
+%<{ shoppingCartContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=4:ID }%>
+%>
+%>
+%<P
+%<{ compareCartContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=5:ID }%>
+%>
+%>
+%>
+%>
+%<S -120:1382695463570 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_compare_1":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ numOfSelectedItems=18:int }%>
+%<{ numInShopCart=0:int }%>
+%<{ cartCurrency="$":String }%>
+%<{ cartTotal="$0.00":String }%>
+%<{ numInCompareCart=1:int }%>
+%<{ selectedProduct=-1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=16:int }%>
+%<{ elem=4:int }%>
+%<{ elem=18:int }%>
+%<{ elem=6:int }%>
+%<{ elem=8:int }%>
+%<{ elem=11:int }%>
+%<{ elem=13:int }%>
+%<{ elem=1:int }%>
+%<{ elem=3:int }%>
+%<{ elem=17:int }%>
+%<{ elem=5:int }%>
+%<{ elem=7:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=12:int }%>
+%<{ elem=14:int }%>
+%<{ elem=2:int }%>
+%<{ elem=15:int }%>
+%>
+%>
+%<P
+%<{ shoppingCartContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=4:ID }%>
+%>
+%>
+%<P
+%<{ compareCartContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=5:ID }%>
+%<{ elem=1:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1382695463572 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_cancas_1":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ numOfSelectedItems=18:int }%>
+%<{ numInShopCart=0:int }%>
+%<{ cartCurrency="$":String }%>
+%<{ cartTotal="$0.00":String }%>
+%<{ numInCompareCart=1:int }%>
+%<{ selectedProduct=-1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=16:int }%>
+%<{ elem=4:int }%>
+%<{ elem=18:int }%>
+%<{ elem=6:int }%>
+%<{ elem=8:int }%>
+%<{ elem=11:int }%>
+%<{ elem=13:int }%>
+%<{ elem=1:int }%>
+%<{ elem=3:int }%>
+%<{ elem=17:int }%>
+%<{ elem=5:int }%>
+%<{ elem=7:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=12:int }%>
+%<{ elem=14:int }%>
+%<{ elem=2:int }%>
+%<{ elem=15:int }%>
+%>
+%>
+%<P
+%<{ shoppingCartContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=4:ID }%>
+%>
+%>
+%<P
+%<{ compareCartContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=5:ID }%>
+%<{ elem=1:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1382695465201 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_cancas_1":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ numOfSelectedItems=18:int }%>
+%<{ numInShopCart=0:int }%>
+%<{ cartCurrency="$":String }%>
+%<{ cartTotal="$0.00":String }%>
+%<{ numInCompareCart=1:int }%>
+%<{ selectedProduct=-1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=16:int }%>
+%<{ elem=4:int }%>
+%<{ elem=18:int }%>
+%<{ elem=6:int }%>
+%<{ elem=8:int }%>
+%<{ elem=11:int }%>
+%<{ elem=13:int }%>
+%<{ elem=1:int }%>
+%<{ elem=3:int }%>
+%<{ elem=17:int }%>
+%<{ elem=5:int }%>
+%<{ elem=7:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=12:int }%>
+%<{ elem=14:int }%>
+%<{ elem=2:int }%>
+%<{ elem=15:int }%>
+%>
+%>
+%<P
+%<{ shoppingCartContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=4:ID }%>
+%>
+%>
+%<P
+%<{ compareCartContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=5:ID }%>
+%<{ elem=1:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1382695467147 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="TabNavigator0":String }%>
+%<{ type="change":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%<{ elem=1:int }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ numOfSelectedItems=18:int }%>
+%<{ numInShopCart=0:int }%>
+%<{ cartCurrency="$":String }%>
+%<{ cartTotal="$0.00":String }%>
+%<{ numInCompareCart=1:int }%>
+%<{ selectedProduct=1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=16:int }%>
+%<{ elem=4:int }%>
+%<{ elem=18:int }%>
+%<{ elem=6:int }%>
+%<{ elem=8:int }%>
+%<{ elem=11:int }%>
+%<{ elem=13:int }%>
+%<{ elem=1:int }%>
+%<{ elem=3:int }%>
+%<{ elem=17:int }%>
+%<{ elem=5:int }%>
+%<{ elem=7:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=12:int }%>
+%<{ elem=14:int }%>
+%<{ elem=2:int }%>
+%<{ elem=15:int }%>
+%>
+%>
+%<P
+%<{ shoppingCartContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=4:ID }%>
+%>
+%>
+%<P
+%<{ compareCartContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=5:ID }%>
+%<{ elem=1:int }%>
+%>
+%>
+%>
+%>

@@ -1,0 +1,44 @@
+%<S -120:1333135496862 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="priceSlider":String }%>
+%<{ type="change":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"%<P
+%<{ elem=1:int }%>
+%<{ elem=500:int }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=1:ID }%>
+%<{ numOfSelectedItems=8:int }%>
+%<{ numInShopCart=0:int }%>
+%<{ cartTotal="$0.00":String }%>
+%<{ numInCompareCart=0:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"%<P
+%<{ elem=14:int }%>
+%<{ elem=10:int }%>
+%<{ elem=6:int }%>
+%<{ elem=13:int }%>
+%<{ elem=9:int }%>
+%<{ elem=12:int }%>
+%<{ elem=8:int }%>
+%<{ elem=11:int }%>
+%>
+%>
+%<{ shoppingCartContents=> }%>
+%<S "O:Array"%<P
+%>
+%>
+%<{ compareCartContents=> }%>
+%<S "O:Array"%<P
+%>
+%>
+%>
+%> 

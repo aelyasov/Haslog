@@ -1,0 +1,160 @@
+decl-version 2.0
+
+
+ppt App:::OBJECT
+ppt-type object
+   variable smodel
+      var-kind variable
+      dec-type XID
+      rep-type hashcode
+      comparability 5
+   variable smodel.catalogContents
+      var-kind variable
+      dec-type XID
+      rep-type hashcode
+      comparability 5
+   variable smodel.catalogContents.__array
+      var-kind array
+      enclosing-var smodel.catalogContents
+      array 1
+      dec-type int[]
+      rep-type int[]
+      comparability 12[52]
+   variable smodel.selectedProduct
+      var-kind variable
+      dec-type String
+      rep-type java.lang.String
+      comparability 4
+
+ppt AppInit:::POINT
+ppt-type point
+parent parent App:::OBJECT 1
+   variable smodel
+      var-kind variable
+      dec-type XID
+      rep-type hashcode
+      comparability 5
+      parent App:::OBJECT 1
+   variable smodel.catalogContents
+      var-kind variable
+      dec-type XID
+      rep-type hashcode
+      comparability 5
+      parent App:::OBJECT 1
+   variable smodel.catalogContents.__array
+      var-kind array
+      enclosing-var smodel.catalogContents
+      array 1
+      dec-type int[]
+      rep-type int[]
+      comparability 12[52]
+      parent App:::OBJECT 1
+   variable smodel.selectedProduct
+      var-kind variable
+      dec-type String
+      rep-type java.lang.String
+      comparability 4
+      parent App:::OBJECT 1
+
+ppt click_Image4(..):::ENTER
+ppt-type enter
+   variable smodel
+      var-kind variable
+      dec-type XID
+      rep-type hashcode
+      comparability 5
+   variable smodel.catalogContents
+      var-kind variable
+      dec-type XID
+      rep-type hashcode
+      comparability 5
+   variable smodel.catalogContents.__array
+      var-kind array
+      enclosing-var smodel.catalogContents
+      array 1
+      dec-type int[]
+      rep-type int[]
+      comparability 12[52]
+   variable smodel.selectedProduct
+      var-kind variable
+      dec-type String
+      rep-type java.lang.String
+      comparability 4
+
+ppt click_Image4(..):::EXIT1
+ppt-type exit
+parent parent App:::OBJECT 10
+   variable smodel
+      var-kind variable
+      dec-type XID
+      rep-type hashcode
+      comparability 5
+      parent App:::OBJECT 10
+   variable smodel.catalogContents
+      var-kind variable
+      dec-type XID
+      rep-type hashcode
+      comparability 5
+      parent App:::OBJECT 10
+   variable smodel.catalogContents.__array
+      var-kind array
+      enclosing-var smodel.catalogContents
+      array 1
+      dec-type int[]
+      rep-type int[]
+      comparability 12[52]
+      parent App:::OBJECT 10
+   variable smodel.selectedProduct
+      var-kind variable
+      dec-type String
+      rep-type java.lang.String
+      comparability 4
+      parent App:::OBJECT 10
+
+AppInit:::POINT
+this_invocation_nonce
+0
+smodel
+8
+1
+smodel.catalogContents
+9
+1
+smodel.catalogContents.__array
+[1]
+1
+smodel.selectedProduct
+""
+1
+
+click_Image4(..):::ENTER
+this_invocation_nonce
+1
+smodel
+8
+1
+smodel.catalogContents
+9
+1
+smodel.catalogContents.__array
+[1]
+1
+smodel.selectedProduct
+""
+1
+
+click_Image4(..):::EXIT1
+this_invocation_nonce
+1
+smodel
+3
+1
+smodel.catalogContents
+4
+1
+smodel.catalogContents.__array
+[1]
+1
+smodel.selectedProduct
+""
+1
